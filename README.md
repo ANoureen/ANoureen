@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ANoureen
+- 👀 I’m a physicist and plan to become data scientist
+- 🌱 I’m currently learning data science
+- 💞️ I’m looking to collaborate on data science projects
+- 📫 my email address is afia.xain@gmail.com
+- 📚 I like to read books in my free time
+- 🚵‍♂️ I love a simple and eco-friendly lifestyle.
